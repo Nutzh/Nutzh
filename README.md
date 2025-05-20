@@ -17,8 +17,6 @@ Check out my writeups, and tutorials on my website:
 
 [![Website](https://img.shields.io/badge/nutzh.top-%23007acc?style=plastic&logo=google-chrome&logoColor=white)](https://nutzh.top)
 
----
-
 ### 📝 Latest Writeups
 
 - 🧱 [TheFinals – HackMyVM](https://nutzh.top/hackmyvm/thefinals/)
