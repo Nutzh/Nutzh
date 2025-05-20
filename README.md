@@ -10,7 +10,6 @@
 -  A collection of Bash scripts for automating system tasks and reconnaissance  
 -  A simple mini shell written in C  
 -  A hash checker and detector written in Python
--  
 ### 🌐 My Website
 
 Check out my writeups, and tutorials on my website:
